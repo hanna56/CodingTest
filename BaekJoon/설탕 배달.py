@@ -15,4 +15,4 @@ else:
   print(answer+N//3) if N%3==0 else print(-1)
 
   
-  
+   
